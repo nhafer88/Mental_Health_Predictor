@@ -1,4 +1,4 @@
-![horizon_banner](horizon_banner.png)
+![horizon_banner](Images/horizon_banner.png)
 # Mental Health Predictor
 
 ## Selected Topic
