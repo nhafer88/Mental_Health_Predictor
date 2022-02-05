@@ -12,6 +12,7 @@
 ## Description of Data Sources
 - 500 Cities: Local Data for Better Health, 2019---[Centers for Disease Control and Prevention (CDC), Division of Population Health, Epidemiology and Surveillance Branch](https://chronicdata.cdc.gov/500-Cities-Places/500-Cities-Local-Data-for-Better-Health-2019-relea/6vp6-wxuq) 
 - US Household Income Statistics---[Golden Oak Research Group LLC, “U.S. Income Database Kaggle”. Publication: 5, August 2017](https://www.kaggle.com/goldenoakresearch/us-household-income-stats-geo-locations/version/1)
+- United States Cities Database---[SimpleMaps.com, Pareto Software LLC, compiled data from U.S. Geological Survey and U.S. Census Bureau](https://simplemaps.com/data/us-cities)
 ## Questions Hoping to Answer
 - What are the most and least significant factors in predicting mental health severity?
 ## Communication Protocols
