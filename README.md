@@ -32,6 +32,7 @@
   - HTML
   - CSS
 ## Machine Learning Model
+- A deep learning model with input variables as neurons and 2 layers. Number of neurons in the 2nd layer will be optimized by keras tuner. One mental health outcome to be predicted.
 
 ## Presenation
 - The presenation of the project will be found on a Google Slide Presenation.
