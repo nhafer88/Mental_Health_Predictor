@@ -2,12 +2,16 @@
 # Mental Health Predictor
 
 ## Selected Topic
-- Predicting mental health severity in United States based on multiple socioeconomic and enviornmental factors
+- Predicting mental health severity in United States based on variety of socioeconomic and enviornmental factors including, but not limited to:
+  - populaton density
+  - annual income
+  - water and land features
 ## Reason for Selecting Topic
 - Building a model that can predict mental health risk for an individual
 - The prediction can provide awareness needed to address mental health concerns
 ## Description of Data Sources
-
+- 500 Cities: Local Data for Better Health, 2019---Centers for Disease Control and Prevention (CDC), Division of Population Health, Epidemiology and Surveillance Branch. 
+- US Household Income Statistics---Golden Oak Research Group LLC, “U.S. Income Database Kaggle”. Publication: 5, August 2017
 ## Questions Hoping to Answer
 - What are the most and least significant factors in predicting mental health severity?
 ## Communication Protocols
