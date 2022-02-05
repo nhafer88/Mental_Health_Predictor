@@ -17,7 +17,7 @@
 ## Communication Protocols
 - Keeping updated on the status of each of our parts in the project and general project status, each team member regularly communicates through Slack messaging and Zoom meetings.
 ## Tools/Resources
-- Creating Database Schema
+- [Creating ERD](https://github.com/nhafer88/Mental_Health_Predictor/commit/f8f2a720df6feedc02fa7ba1b01adb5577768b24#diff-ce92e4abab2a17aedfa39efbe31618be81054e0df18811d555e9f7260ce1c501)
   - DB Designer
 - Creating Database
    - PostgreSQL
