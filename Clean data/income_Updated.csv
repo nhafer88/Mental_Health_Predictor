@@ -1,4 +1,4 @@
-City,State_Name,State_ab,ALand,AWater,Median,Stdev
+city,State_name,State_ab,ALand,AWater,Median,Stdev
 Abbeville,South Carolina,SC,15362950.5,2045825.5,79637.5,120123.32193746619
 Abbotsford,Wisconsin,WI,4146136.3333333335,30049.666666666668,95209.66666666667,126508.06293993024
 Aberdeen,Maryland,MD,17117119.2,1522694.2,126107.4,101873.34068789826
