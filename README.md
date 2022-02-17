@@ -30,7 +30,7 @@
   - Scikit-Learn
   - Tensorflow
   - Dashboard
-  - Tableau?
+  - Tableau
   - Javascript
   - Flask
   - HTML
@@ -41,3 +41,4 @@
 ## Presenation
 - The presentation of the project will be found on a Google Slide Presenation.
 ## Dashboard
+https://nhafer88.github.io/Mental_Health_Predictor/
