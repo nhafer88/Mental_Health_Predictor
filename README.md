@@ -40,5 +40,6 @@
 
 ## Presenation
 - The presentation of the project will be found on a Google Slide Presenation.
+[Slide Presentation](https://docs.google.com/presentation/d/1T0pPPJlH2q55Iz5oIuN2MVgiFmE9DHhBDO7ZB3xee1I/edit?usp=sharing)
 ## Dashboard
 https://nhafer88.github.io/Mental_Health_Predictor/
