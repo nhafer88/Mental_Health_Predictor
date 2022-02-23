@@ -39,6 +39,7 @@
 - A deep learning model with input variables as neurons and 2 layers. Number of neurons in the 2nd layer will be optimized by keras tuner. One mental health outcome to be predicted.
 
 ## Presenation
-- The presentation of the project will be found on a Google Slide Presenation.
+- The presentation of the project will be found on a Google Slide Presenation,
+[Here](https://docs.google.com/presentation/d/1T0pPPJlH2q55Iz5oIuN2MVgiFmE9DHhBDO7ZB3xee1I/edit?usp=sharing)
 ## Dashboard
 https://nhafer88.github.io/Mental_Health_Predictor/
