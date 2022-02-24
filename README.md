@@ -12,7 +12,7 @@
 ## Description of Data Sources
 - 500 Cities: Local Data for Better Health, 2019. 500 Cities: Mental health not good for >=14 days among adults aged >=18 years ---[Centers for Disease Control and Prevention (CDC), Division of Population Health, Epidemiology and Surveillance Branch](https://chronicdata.cdc.gov/500-Cities-Places/500-Cities-Mental-health-not-good-for-14-days-amon/i2ek-k3pa)
   - Behavioral Risk Factor Surveillance System (BRFSS) data (2017, 2016)
-    - Respondents aged ≥18 years who report 14 or more days during the past 30 days during which their mental health was not good. 
+    - Mental Health Severity: Respondents aged ≥18 years who report 14 or more days during the past 30 days during which their mental health was not good. 
 - US Household Income Statistics---[Golden Oak Research Group LLC, “U.S. Income Database Kaggle”. Publication: 5, August 2017](https://www.kaggle.com/goldenoakresearch/us-household-income-stats-geo-locations/version/1)
 - United States Cities Database---[SimpleMaps.com, Pareto Software LLC, compiled data from U.S. Geological Survey and U.S. Census Bureau](https://simplemaps.com/data/us-cities)
 ## Questions Hoping to Answer
