@@ -4,7 +4,7 @@
 ## Selected Topic
 - Predicting prevalence of poor mental health in United States based on various socioeconomic and enviornmental factors including, but not limited to:
   - populaton density
-  - annual income
+  - annual household income
   - water and land features
 ## Reason for Selecting Topic
 - Building a model that can predict mental health risk for an individual
