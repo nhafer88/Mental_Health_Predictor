@@ -2,7 +2,7 @@
 # Mental Health Predictor
 
 ## Selected Topic
-- Predicting mental health severity in United States based on variety of socioeconomic and enviornmental factors including, but not limited to:
+- Predicting prevalence of poor mental health in United States based on various socioeconomic and enviornmental factors including, but not limited to:
   - populaton density
   - annual income
   - water and land features
@@ -16,14 +16,12 @@
 - US Household Income Statistics---[Golden Oak Research Group LLC, “U.S. Income Database Kaggle”. Publication: 5, August 2017](https://www.kaggle.com/goldenoakresearch/us-household-income-stats-geo-locations/version/1)
 - United States Cities Database---[SimpleMaps.com, Pareto Software LLC, compiled data from U.S. Geological Survey and U.S. Census Bureau](https://simplemaps.com/data/us-cities)
 ## Questions Hoping to Answer
-- What are the most and least significant factors in predicting mental health severity?
-## Communication Protocols
-- Keeping updated on the status of each of our parts in the project and general project status, each team member regularly communicates through Slack messaging and Zoom meetings.
+- What are the most and least significant factors (features) in predicting prevalence of poor mental health in the US?
 ## Tools/Resources
-- [Creating ERD](https://github.com/nhafer88/Mental_Health_Predictor/blob/main/final_erd.png)
-  - DB Designer
+- Creating ERD
+  - [QuickDBD](https://github.com/nhafer88/Mental_Health_Predictor/blob/main/final_erd.png)
 - Creating Database
-   - PostgreSQL
+   - SQLite
 - Analyzing Data
   - Pandas
 - Connecting to Database
@@ -35,11 +33,10 @@
   - Tableau
   - Javascript
   - Flask
-  - HTML
-  - CSS
+  - HTML/CSS
 ## Machine Learning Model
-- A deep learning model with input variables as neurons and 2 layers. Number of neurons in the 2nd layer will be optimized by keras tuner. One mental health outcome to be predicted.
-
+![accuracy](Images/m_accuracy.png)
+![f](Images/f_importance.png)
 ## Presenation
 - The presentation of the project will be found on a Google Slide Presenation,
 [Here](https://docs.google.com/presentation/d/1T0pPPJlH2q55Iz5oIuN2MVgiFmE9DHhBDO7ZB3xee1I/edit?usp=sharing)
