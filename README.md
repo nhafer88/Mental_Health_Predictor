@@ -43,6 +43,7 @@
 - Features were log-transformed and scaled to bring them into a normal distribution
 - We tried logistic regression, support vector machines (1-3 kernels), decision tree, gradient tree boost (learning rates .05 - 1), random forest, and 1-2 layer deep learning
 - We used 10-fold cross-validation - i.e., 10 machine learning instances of randomly allocating 90% of data to training and 10% to testing. We averaged the performance across the 10 instances.
+
 ![accuracy](Images/m_accuracy.png)
 ![f](Images/f_importance.png)
 ## Presenation
