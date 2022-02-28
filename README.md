@@ -7,8 +7,8 @@
   - annual household income
   - water and land features
 ## Reason for Selecting Topic
-- Building a model that can predict mental health risk for an individual
-- The prediction can provide awareness needed to address mental health concerns
+- Building a model that can predict the prevalence of mental health risk for an individual based on specific features (factors)
+- The prediction can provide awareness needed to address mental health concerns.
 ## Description of Data Sources
 - 500 Cities: Local Data for Better Health, 2019. 500 Cities: Mental health not good for >=14 days among adults aged >=18 years ---[Centers for Disease Control and Prevention (CDC), Division of Population Health, Epidemiology and Surveillance Branch](https://chronicdata.cdc.gov/500-Cities-Places/500-Cities-Mental-health-not-good-for-14-days-amon/i2ek-k3pa)
   - Behavioral Risk Factor Surveillance System (BRFSS) data (2017, 2016)
@@ -43,7 +43,6 @@
 - Features were log-transformed and scaled to bring them into a normal distribution
 - We tried logistic regression, support vector machines (1-3 kernels), decision tree, gradient tree boost (learning rates .05 - 1), random forest, and 1-2 layer deep learning
 - We used 10-fold cross-validation - i.e., 10 machine learning instances of randomly allocating 90% of data to training and 10% to testing. We averaged the performance across the 10 instances.
-
 ![accuracy](Images/m_accuracy.png)
 ![f](Images/f_importance.png)
 ## Presenation
